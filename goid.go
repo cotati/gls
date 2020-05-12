@@ -29,6 +29,7 @@ func init() {
 		"go1.11.1": 152,
 		"go1.11.2": 152,
 		"go1.12.7": 152,
+		"go1.13.7": 152,
 	}
 
 	version := runtime.Version()
